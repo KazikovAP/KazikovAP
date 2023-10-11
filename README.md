@@ -8,7 +8,8 @@ I am a Python developer
 
 
 ### Contacts
-
+-  Email: **kas.alex29@gmail.com**
+-  Telegram: <a href="https://t.me/kazikovap" target="_blank">@kazikovap</a>
 
 <!--
 **KazikovAP/KazikovAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
