@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Aleksey
+I am a Python developer
+
 <!--
 **KazikovAP/KazikovAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
