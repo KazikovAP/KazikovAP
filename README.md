@@ -4,9 +4,11 @@ My name is Aleksey!
 
 I am a Python developer
 
+### Technology stack
+
+
 ### Contacts
-[<img src="./svg/telegram.svg">](https://t.me/kazikovap)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:kas.alex29@gmail.com)
+
 
 <!--
 **KazikovAP/KazikovAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
