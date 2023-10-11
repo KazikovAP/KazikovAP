@@ -13,7 +13,7 @@ I am a Go/Python developer
 [![docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/-NGINX-464646?style=flat-square&logo=NGINX)](https://nginx.org/ru/)
 [![GitHub](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=GitHub)](https://github.com/)
-[![Linux](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=Linux)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/-Linux-464646?style=flat-square&logo=Linux)](https://www.linux.org/)
 
 ### Contacts
 -  Email: **kas.alex29@gmail.com**
