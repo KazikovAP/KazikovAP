@@ -11,6 +11,7 @@ I am a Go/Python developer
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker)](https://www.docker.com/)
+[![Nginx](https://img.shields.io/badge/-NGINX-464646?style=flat-square&logo=NGINX)](https://nginx.org/ru/)
 [![GitHub](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=GitHub)](https://github.com/)
 
 ### Contacts
@@ -19,8 +20,9 @@ I am a Go/Python developer
 
 ### GitHub Stats
 
-![dangerousmonk GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazikovap&count_private=true&hide=contribs&include_all_commits=True&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazikovap&count_private=true&hide=tsql&langs_count=5&theme=default&layout=compact)
+![dangerousmonk GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazikovap&count_private=true&hide=contribs&include_all_commits=True&show_icons=true&theme=default)
+
 
 <!--
 **KazikovAP/KazikovAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
