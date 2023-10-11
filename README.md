@@ -4,17 +4,23 @@ My name is Aleksey!
 
 I am a Go/Python developer
 
-### Technology stack
+### Tools and technologies
 [![Go](https://img.shields.io/badge/-Go-464646?style=flat-square&logo=Go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=GitHub)](https://github.com/)
 
 ### Contacts
 -  Email: **kas.alex29@gmail.com**
 -  Telegram: <a href="https://t.me/kazikovap" target="_blank">@kazikovap</a>
+
+### GitHub Stats
+
+![dangerousmonk GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazikovap&count_private=true&hide=contribs&include_all_commits=True&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazikovap&count_private=true&hide=tsql&langs_count=5&theme=default&layout=compact)
 
 <!--
 **KazikovAP/KazikovAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
