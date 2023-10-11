@@ -2,7 +2,7 @@
 
 My name is Aleksey!
 
-I am a Go/Python developer
+I am a Python developer
 
 ### Tools and technologies
 [![Go](https://img.shields.io/badge/-Go-464646?style=flat-square&logo=Go)](https://go.dev/)
