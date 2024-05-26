@@ -2,12 +2,12 @@
 
 My name is Aleksey!
 
-I am a Go/Python developer 👨‍💻 and a MIPT student 👨‍🎓
+I am a Go developer 👨‍💻 and a MIPT student 👨‍🎓
 
 ### Tools and technologies
 [![Go](https://img.shields.io/badge/-Go-464646?style=flat-square&logo=Go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
+[![SQL](https://img.shields.io/badge/-SQL-464646?style=flat-square&logo=SQL)](https://www.sql.org))
 [![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=docker)](https://www.docker.com/)
