@@ -6,18 +6,20 @@ I am a Go developer 👨‍💻 and a MIPT student 👨‍🎓
 
 ### Tools and technologies
 [![Go](https://img.shields.io/badge/-Go-464646?style=flat-square&logo=Go)](https://go.dev/)
-[![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-464646?style=flat-square&logo=SQL)](https://www.sql.org)
+[![SQLite](https://img.shields.io/badge/-SQLite-464646?style=flat-square&logo=SQLite)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-464646?style=flat-square&logo=Redis)](https://redis.io)
-[![Docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=Docker)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-464646?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
-[![Nginx](https://img.shields.io/badge/-NGINX-464646?style=flat-square&logo=NGINX)](https://nginx.org/ru/)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-464646?style=flat-square&logo=ClickHouse)](https://clickhouse.com)
 [![REST](https://img.shields.io/badge/-REST-464646?style=flat-square&logo=REST)](https://restfulapi.net/)
 [![gRPC](https://img.shields.io/badge/-gRPC-464646?style=flat-square&logo=gRPC)](https://grpc.io/)
+[![Docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=Docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-464646?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
+[![Grafana](https://img.shields.io/badge/-Grafana-464646?style=flat-square&logo=Grafana)](https://grafana.com)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-464646?style=flat-square&logo=Prometheus)](https://prometheus.io)
 [![GitHub](https://img.shields.io/badge/-GitHub-464646?style=flat-square&logo=GitHub)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-464646?style=flat-square&logo=GitLab)](https://about.gitlab.com/)
 [![Linux](https://img.shields.io/badge/-Linux-464646?style=flat-square&logo=Linux)](https://www.linux.org/)
+[![NATS](https://img.shields.io/badge/-NATS-464646?style=flat-square&logo=NATS)](https://nats.io)
 [![Kafka](https://img.shields.io/badge/-Kafka-464646?style=flat-square&logo=Kafka)](https://kafka.apache.org)
 
 ### Contacts
