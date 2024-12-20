@@ -11,7 +11,7 @@ I am a Go developer 👨‍💻 and a MIPT student 👨‍🎓
 [![Redis](https://img.shields.io/badge/-Redis-464646?style=flat-square&logo=Redis)](https://redis.io)
 [![ClickHouse](https://img.shields.io/badge/-ClickHouse-464646?style=flat-square&logo=ClickHouse)](https://clickhouse.com)
 [![REST](https://img.shields.io/badge/-REST-464646?style=flat-square&logo=swagger)](https://restfulapi.net/)
-[![gRPC](https://img.shields.io/badge/-gRPC-464646?style=flat-square&logo=protobuf)](https://grpc.io/)
+[![gRPC](https://img.shields.io/badge/-gRPC-464646?style=flat-square&logo=google)](https://grpc.io/)
 [![Docker](https://img.shields.io/badge/-Docker-464646?style=flat-square&logo=Docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-464646?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
 [![Grafana](https://img.shields.io/badge/-Grafana-464646?style=flat-square&logo=Grafana)](https://grafana.com)
